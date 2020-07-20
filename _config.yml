@@ -2,7 +2,7 @@ name: Developer Hub
 markdown: kramdown
 highlighter: rouge
 safe: true
-baseurl: /book
+baseurl: /cxx-toolkit
 exclude: ['.ruby-version', 'node_modules', 'package.json', 'bower.json']
 gems:
   - jekyll-last-modified-at
